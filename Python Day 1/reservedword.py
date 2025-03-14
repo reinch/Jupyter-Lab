@@ -1,0 +1,7 @@
+print("you can\'t use variable name that reserved word by python: ")
+print("and assert break class continue def del elif else except")
+print("exec finally for form global if import in is lambda")
+print("not or pass print raise retur try while")
+print("Data Float Int NUmeric Oxphys array close float int input")
+print("open range type write zeros")
+print("acos asin atan cos e exp fabs floor log log10 pi sin sqrt tan")

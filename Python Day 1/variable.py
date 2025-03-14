@@ -1,0 +1,2 @@
+nama = ("Rein")
+print(nama)
