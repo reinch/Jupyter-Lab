@@ -1,0 +1,6 @@
+huruf_a = ord("a")
+print("huruf a akan diwakili oleh angka: ", huruf_a)
+angka = int("25")
+print("25 + 25 adalah: ", 25+angka)
+tipe = str(25)
+print("ini adalah tipenya: ", tipe,type(tipe))
